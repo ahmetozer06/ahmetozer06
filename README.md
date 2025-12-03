@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Ahmet!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Geliştirici%20&%20Teknoloji%20Meraklısı&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Hacı%20Ahmet!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Geliştirici%20&%20Teknoloji%20Meraklısı&descAlignY=51&descAlign=62" />
 </div>
 
 <h3 align="center">👋 Ben Hacı Ahmet Özer.</h3>
