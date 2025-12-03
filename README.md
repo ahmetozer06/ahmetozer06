@@ -1,10 +1,4 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E91F7&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+Ahmet+Özer!+%F0%9F%91%8B;Yazılım+Mühendisliği+Öğrencisiyim;Python+%26+Yapay+Zeka+Geliştiricisiyim;Girişimcilik+Dünyasındayım" alt="Typing SVG" />
-</a>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Ahmet!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Geliştirici%20&%20Teknoloji%20Meraklısı&descAlignY=51&descAlign=62" />
 </div>
 
