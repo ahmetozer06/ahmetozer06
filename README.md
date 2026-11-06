@@ -8,9 +8,7 @@
   
   ---
   
-  🔭 Şu anda **harika projeler** üzerinde çalışıyorum.  
-  🌱 **Yeni teknolojiler** öğrenmeye ve kendimi geliştirmeye odaklıyım.  
-  🤝 **Açık kaynak** projelere katkı sağlamayı seviyorum.  
+ 
   ---
 </div>
 
